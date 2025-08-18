@@ -1,0 +1,24 @@
+```json
+{
+  "characters": [
+    {
+      "first_name": "Emily",
+      "last_name": "Carter",
+      "gender": "female",
+      "age": 16
+    },
+    {
+      "first_name": "James",
+      "last_name": "Miller",
+      "gender": "male",
+      "age": 17
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Bennett",
+      "gender": "female",
+      "age": 15
+    }
+  ]
+}
+```
